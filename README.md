@@ -6,7 +6,7 @@ We help our friend Bobby to determine the number of retiring employees per title
 
 ## Results:
 
-### DELIVARABLE #1
+### DELIVARABLE #1 Number of Retiring Employees by Title
 - Step #1: We want to identify the numbers of retiring employees by title. We run this code and create "retirement_titles.csv" file. 
  
   ![Retirementtitles](https://user-images.githubusercontent.com/87447639/134709629-4fdcf4bc-94e2-427a-9f60-df49a32288b9.PNG)
@@ -21,7 +21,7 @@ We help our friend Bobby to determine the number of retiring employees per title
   ![Retiringtitles](https://user-images.githubusercontent.com/87447639/134709653-7436a742-eb4b-48b0-9030-a3beaeebc93e.PNG)
 
 
-### DELIVARABLE #2
+### DELIVARABLE #2 Employees Eligible for the Mentorship Program
 
 - We want to create a mentorship-eligibility table that holds the current employees who were born between January 1, 1965 and December 31, 1965. So we run this code and create "mentorship_eligibilty.csv"
 
@@ -32,16 +32,15 @@ We help our friend Bobby to determine the number of retiring employees per title
   ![mentorship eligibility table](https://user-images.githubusercontent.com/87447639/135506599-b9b308b1-55eb-4f91-b55a-61bf4249f3aa.PNG)
   
  
-## Summary: Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami.
-
-1. How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+## Summary:
+- 1. How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 
 The company will need to fille 90398 roles. 
 
 ![retiring_dept](https://user-images.githubusercontent.com/87447639/135514510-11400698-9e47-45e8-9b47-cacf435dedd7.PNG)
 
-2 . Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+- 2. Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
 ![mentorship eligibility departments table](https://user-images.githubusercontent.com/87447639/135514657-9f206b56-1321-44fe-a305-8885ffdbf809.PNG)
 
-No, there are not sufficient employees because department are lacking of mentors.
+No, there are not enough employees because the department lacks mentors. As we can see in the previous tables by department.
